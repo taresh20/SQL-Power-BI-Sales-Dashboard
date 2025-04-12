@@ -1,4 +1,4 @@
-# 📊 SQL + Power BI Sales Dashboard
+# 📊 SQL + Power BI Pizza Sales Dashboard
 
 **Objective:**  
 To analyze product sales performance using SQL for data preprocessing and Power BI for interactive visualization.
