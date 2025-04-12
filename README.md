@@ -37,6 +37,8 @@ To analyze product sales performance using SQL for data preprocessing and Power 
 SQL Server, Power BI, DAX
 
 **Some graphs of project**
+
+
 ![Image](https://github.com/user-attachments/assets/f6370d66-88b7-4300-9ba8-c8c986e5c649) ![Image](https://github.com/user-attachments/assets/4edfeede-71cc-4abe-b601-3b2b01507c7c)
 ![Image](https://github.com/user-attachments/assets/7268107a-6469-40d7-83a1-e632e0292ded)
 ![Image](https://github.com/user-attachments/assets/0fd17676-d2f0-438a-bd9c-daae0dd161ea)
