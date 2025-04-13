@@ -38,8 +38,5 @@ SQL Server, Power BI, DAX
 
 **Some graphs of project**
 
-
-![Image](https://github.com/user-attachments/assets/f6370d66-88b7-4300-9ba8-c8c986e5c649) ![Image](https://github.com/user-attachments/assets/4edfeede-71cc-4abe-b601-3b2b01507c7c)
-![Image](https://github.com/user-attachments/assets/7268107a-6469-40d7-83a1-e632e0292ded)
-![Image](https://github.com/user-attachments/assets/0fd17676-d2f0-438a-bd9c-daae0dd161ea)
-![Image](https://github.com/user-attachments/assets/0687d701-b441-44ea-9f2c-c63827897507)
+![Image](https://github.com/user-attachments/assets/f77e06bb-511c-475f-aaef-057b51d20844)
+![Image](https://github.com/user-attachments/assets/0446fe95-a9f1-49fb-9471-c1da98a862a0)
